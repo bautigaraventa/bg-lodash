@@ -1,0 +1,22 @@
+{
+  "name": "bg-lodash",
+  "version": "1.0.0",
+  "description": "bautigaraventa's implementation of every lodash function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bautigaraventa/bg-lodash.git"
+  },
+  "keywords": [
+    "lodash"
+  ],
+  "author": "bautigaraventa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bautigaraventa/bg-lodash/issues"
+  },
+  "homepage": "https://github.com/bautigaraventa/bg-lodash#readme"
+}
